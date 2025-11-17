@@ -1,6 +1,7 @@
 # EC2 Launch with Terraform & Ansible
 
 This project automates the provisioning of an AWS EC2 instance using Terraform and configures it with Nginx using Ansible.
+![Nginx Welcome Page](images/nginx-terraform.png)
 
 ![Nginx Welcome Page](nginx-terraform.png)
 
